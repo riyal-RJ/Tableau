@@ -1,6 +1,5 @@
 ## Made dashboard using Tableau
-![Uploading image.png…]()
-
+![image](https://github.com/riyal-RJ/Tableau/assets/156398857/251e7161-5b1d-4d60-8094-1215c8720210)
 
 # NETFLIX
 ![image](https://github.com/riyal-RJ/Tableau/assets/156398857/50016ef2-bece-4a45-9892-9928c95e8ef5)
